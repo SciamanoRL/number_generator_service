@@ -1,0 +1,6 @@
+
+spring:
+  application:
+    name: number_generator_service
+server:
+  port: 3001
